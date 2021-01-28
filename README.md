@@ -1,6 +1,13 @@
 Robot Simulator
 ================
 
+## Installation Steps
+
+```
+1. Clone Repo: git clone https://github.com/augustpuja/coding-assignment-robot-simulator.git
+2. Change into directory: `cd coding-assignment-robot-simulator`
+```
+
 ## Run instructions
 
 Run the program with command below:
